@@ -63,12 +63,11 @@ realize - what does the best version of me as a disciplined programmer?
 
 ## The 75 Soft checklist for software dev dev
 
-1.  Subscribe to a diet of quality learning materials/ courses
-2.  Spend 2 x 45 minutes contributing code to a project, one has to be
-    open source
-3.  Post your journey activities on social media
+1.  Devour one learning resource you’ve been wanting to consume
+2.  Contribute on two projects (one has to be open source)
+3.  Watercooler - share your learnings on social media
 4.  Read 10 pages of a software dev book
-5.  Monitor your progress in Quarto/ Rmarkdown
+5.  Track your progress in Quarto/ Rmarkdown
 
 ### Ground rules
 
